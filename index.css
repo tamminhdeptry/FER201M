@@ -1,0 +1,71 @@
+.heading-content{
+    background-color: rgb(146, 146, 173);
+}
+.banner{
+    width: 50%;
+}
+.banner1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image-icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icon{
+    width: 100%;
+    height: 128px;
+}
+.content{
+    width: 100%;
+    height: 328px;
+}
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: red;
+}
+p{
+    font-size: 28px;
+}
+label{
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+}
+.word{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote{
+    background-color: rgb(146, 146, 173);
+    padding: 8px 0;
+}
+.age{
+    width: 10%;
+}
+.habit{
+    display: flex;
+    justify-content: ;
+    align-items: center;
+}
+
+.cup{
+    width: 16%;
+}
+.quote2{
+    text-align: center;
+}
+
+
+
